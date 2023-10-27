@@ -30,7 +30,8 @@ print("Swapped values are:",n1,n2)
 
 ```
 ## output
-![output](./swapoutput.png)
+![output](https://github.com/saron2006/Swapping-two-values/assets/138849343/58b56e44-20d6-4814-b55a-6a878f6f6bf1)
+
 
 
 
